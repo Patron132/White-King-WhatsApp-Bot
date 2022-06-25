@@ -41,11 +41,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761192103'] //ur owner number
+global.owner = ['9037543357'] //ur owner number
 global.ownername = "Udavin Wijesundara"
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
 global.socialm = "GitHub: udavinw" //ur github or insta name
-global.location = "Sri Lanaka" //ur location
+global.location = "Inida" //ur location
 
 //bot bombdy
 global.botname = "White King WhatsApp Bot V-1" //ur bot name
@@ -55,8 +55,8 @@ global.packname = "Cheems Bot Stickers\n\n\n🦄🦄🦄 "
 global.author = "🦄Udavin Wijesundara"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['94761192103'] //ur owner tag
-global.ownernummenu = ['94761192103'] //ur owner number in menu and all
+global.ownertag = ['9037543357'] //ur owner tag
+global.ownernummenu = ['9037543357'] //ur owner number in menu and all
 global.watermark = "UW TECH SHOW." //ur watermark
 global.botscript = "https://github.com/uwtechshow-official/White-King-WhatsApp-Bot"
 global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
